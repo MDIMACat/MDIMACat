@@ -1,7 +1,7 @@
+![MasterHead](https://camo.githubusercontent.com/06cfe055cdd40add0f9ef73fb81b207d6fdcb74b8a3aa077fa4c0b0f1c4c2082/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64646c6f6c6c6874702f696d6167652f75706c6f61642f76313635323830353931372f6772656574696e67735f6e6f7866366b2e676966)
 <h1 align="center">Hi 👋, I'm Siduduzile Snenhlanhla Mdima</h1>
 <h3 align="center">I am an aspiring software engineering student in South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966&tbnid=tkD88475CNPNmM&vet=12ahUKEwj46LGavoaAAxXTpycCHXkKBVgQMygBegUIARDtAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2FPriya-shan&docid=SR8iflvEbBZdsM&w=800&h=600&q=animated coding gif girl&client=ubuntu-sn&ved=2ahUKEwj46LGavoaAAxXTpycCHXkKBVgQMygBegUIARDtAQ">
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdimacat&label=Profile%20views&color=0e75b6&style=flat" alt="mdimacat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mdimasiduduzile" target="blank"><img src="https://img.shields.io/twitter/follow/mdimasiduduzile?logo=twitter&style=for-the-badge" alt="mdimasiduduzile" /></a> </p>
