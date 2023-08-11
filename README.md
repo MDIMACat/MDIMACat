@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdimasiduduzile" target="blank"><img src="https://img.shields.io/twitter/follow/mdimasiduduzile?logo=twitter&style=for-the-badge" alt="mdimasiduduzile" /></a> </p>
 
-- 🌱 I’m currently learning **at ALX Africa in the SE Program (Cohort 15)**
+- 🌱 I’m currently learning **Software Engineering at ALX Africa (Cohort 15), in hopes of being a full stack Developer**
 
 - 📫 How to reach me **romanmdima@gmail.com**
 
