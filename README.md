@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdimacat&label=Profile%20views&color=0e75b6&style=flat" alt="mdimacat" /> </p>
 
-- 🌱 I’m currently learning **at ALX Africa SE program (cohort 17).**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdimacat](https://github.com/mdimacat)
 
